@@ -12,4 +12,4 @@ Projeto de desenvolvimento de biblioteca para uso do ADC.
 
 ## Esquemático e simulação do circuito
 
-![alt]()
+![alt](https://raw.githubusercontent.com/guilemes1/ADC/master/ADC.jpg)
